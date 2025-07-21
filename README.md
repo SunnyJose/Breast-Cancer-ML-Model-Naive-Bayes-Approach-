@@ -33,10 +33,10 @@ The aim of this project is to build a predictive machine learning model using th
    - Predicted labels using the test dataset.
    - Evaluated performance with accuracy score, confusion matrix, and classification report.
 
-7. **Analysis of the Results**  
+6. **Analysis of the Results**  
    - Predicted and actual values were compared against each other.
    - Interpreted false positives and false negatives.
    - Assessed class-wise precision, recall, and F1-score
 
-8. **Conclusion**  
+## Conclusion  
 The Naive Bayes model achieved an accuracy of approximately 97.4 percent on the test set. It correctly identified all benign tumors and misclassified only 3   malignant ones. The precision for detecting malignant tumors was 100 percent, while the recall for benign tumors was slightly lower at 93 percent. These results suggest that the model performs reliably in distinguishing between malignant and benign tumors, with minimal false negatives, making it a strong candidate for supporting early detection efforts in medical screening settings.
