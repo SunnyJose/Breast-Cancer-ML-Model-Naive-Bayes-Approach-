@@ -17,7 +17,8 @@ The aim of this project is to build a predictive machine learning model using th
 ## Procedures
 1. **Load Dataset**  
    Loaded the built-in Breast Cancer dataset from sklearn.datasets.
-   https://github.com/SunnyJose/Breast-Cancer-ML-Model-Naive-Bayes-Approach-/blob/main/ML_Breast_Cancer_Model.ipynb
+   
+https://github.com/SunnyJose/Breast-Cancer-ML-Model-Naive-Bayes-Approach-/blob/main/ML_Breast_Cancer_Model.ipynb
 
 3. **Explore and Understand the Data**  
    Inspected dataset shape, feature names, class distribution, and sample records.
@@ -38,6 +39,7 @@ The aim of this project is to build a predictive machine learning model using th
    - Predicted and actual values were compared against each other.
    - Interpreted false positives and false negatives.
    - Assessed class-wise precision, recall, and F1-score
+   
 https://github.com/SunnyJose/Breast-Cancer-ML-Model-Naive-Bayes-Approach-/blob/main/ML_Breast_Cancer_Model.ipynb
 
 ## Conclusion  
